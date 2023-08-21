@@ -27,4 +27,4 @@ Sinta-se à vontade para entrar em contato comigo por meio de:
 - GitHub: (https://github.com/Lolita0000)
 - LinkedIn: (https://www.linkedin.com/in/ana-luiza-rodrigues-machado-625129274)
 - Email: (anarmachadolu@gmail.com)
-- Instagram: @lolita00_00
+- Instagram: (https://www.instagram.com/lolita00_00/)
