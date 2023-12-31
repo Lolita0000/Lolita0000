@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil do Git! Sou uma estudante de engenharia de software, com
 
 Estou aberta a colaborar em projetos que envolvam:
 
-- HTML e Css
+- HTML e CSS
 
 ## 📫 Como me encontrar?
 
