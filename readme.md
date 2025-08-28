@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-✨ Sobre mim<br><br>🎓 Graduanda em Engenharia de Software na Universidade Católica de Brasília (03/2023 - 2026).<br><br>📚 Certificações adicionais pela Alura e Acronis.<br><br>🌐 Inglês fluente - Curso concluído na CCAA (2014 - 2021).<br><br>💼 Experiência com projetos de adequação à LGPD na ITware Soluções em TI.<br><br>📚 Participei da CPGOIÁIS4 e da CPBSB6 2024.<br><br>🚀 Trabalhei no site Rookie Coder usando Ruby on Rails e Tailwind CSS.<br><br>
+✨ Sobre mim<br><br>🎓 Graduanda em Engenharia de Software na Universidade Católica de Brasília (03/2023 - 2026).<br><br>📚 Certificações adicionais pela Alura, Udemy eAcronis.<br><br>🌐 Inglês fluente - Curso concluído na CCAA (2014 - 2021).<br><br>💼 Experiência com projetos de adequação à LGPD na ITware Soluções em TI.<br>Experiência em desenvolvimento Front-End no Instituto de Pesquisas Eldorado<br><br>📚 Participei da CPGOIÁIS4 e da CPBSB6 2024.<br><br>🚀 Trabalhei no site Rookie Coder usando Ruby on Rails e Tailwind CSS.<br><br>
 
 
 ## 🌐 Socials:
